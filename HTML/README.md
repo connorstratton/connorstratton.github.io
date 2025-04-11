@@ -4,7 +4,7 @@
 
 ### NptGolfing
 ###### Year: 2024
-###### High School Project (Collaborated with Thomas Hardick)
+###### High School Project (Collaborated with Thomas Hardick [https://github.com/thomash062025s](https://github.com/thomash062025s))
 
 Website for a guide to golfing in the Northport, NY area. Group project where we used concepts like thumbnails, iframes, different pages with detailed headers, responsive tables, and more.  
 
