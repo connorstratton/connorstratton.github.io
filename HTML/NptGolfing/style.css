@@ -1,0 +1,149 @@
+body{
+    background-image:url(coursebg.jpg);
+}
+
+nav{
+    background-color: #0d4f17;
+}
+
+nav h1{
+    color: white;
+    font-family: georgia;
+    font-size: 200%;
+}
+
+h1{
+    color: white;
+    font-family: georgia;
+    font-size: 200%;
+    text-align: center;
+}
+
+#main-nav .nav-link{
+    color: lightgrey;
+    font-family: georgia;
+    font-size: 110%;
+}
+
+#main-nav .active{
+    color: #40f037;
+    font-family: georgia;
+}
+
+.bar-img{
+    height:60px;
+}
+
+.map-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.wheel-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.wheel-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-width: 20px;
+    border-style: double;
+    border-radius: 30px;
+    border-color: #0d4f17;
+    background-color: #8de36b;
+}
+
+.map-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-width: 20px;
+    border-style: double;
+    border-radius: 30px;
+    border-color: #8de36b;
+}
+
+.map-wrapper{
+     width: 80%;
+    height: 80%;
+    position: relative;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+}
+
+.content{
+    background-color: #0d4f17;
+    border-width:15px;
+    border-style:inset;
+    border-color: #8de36b;
+}
+
+.content p{
+    color: white;
+    font-family: georgia;
+    font-size:18px;
+    text-align: center;
+}
+
+.content a{
+    color: #40f037;
+}
+
+.img-thumbnail{
+    height:100%;
+    width:100%;
+}
+
+.float-container {
+    border: 0px;
+    padding: 20px;
+    text-align:center;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 0px;
+}  
+
+table{
+    padding-left:15%;
+    padding-right:15%;
+}
+
+
+tr{
+    color:white;
+    text-align:center;
+    font-family: georgia;
+    font-size:18px
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  color: #8de36b;
+}
+
+.layout{
+    border-width: 10px;
+    color: #40f037;
+    border-style:double;
+    border-radius: 20px;
+    width:40%;
+}
+
+.dropdown-menu{
+    background-color: #8de36b;
+}
