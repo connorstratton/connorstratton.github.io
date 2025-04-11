@@ -1,6 +1,6 @@
 # Connor Stratton
 ### Undergraduate at Virginia Tech majoring in Computer Science
-#### Email: connorstratton38@gmail.com
+##### Email: connorstratton38@gmail.com
 
 ----
 
