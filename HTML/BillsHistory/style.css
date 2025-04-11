@@ -1,0 +1,157 @@
+body{
+    background-image:url("background.jpg");
+}
+
+main{
+    height:80%;
+    width:1000px;
+    min-height:200px;
+    
+}
+
+footer{
+    height:80%;
+    min-height:50px;
+    background-color:white;
+    text-align:center;
+    display:block;
+    padding:20px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+    margin: 0;
+}
+
+div.blue{
+    background-color:blue;
+    text-align:center;
+    min-height:200px;
+}
+
+
+div.red{
+    background-color:red;
+    text-align:center;
+    min-height:200px;
+}
+
+div.white{
+    background-color:white;
+    text-align:center;
+    min-height:200px;
+}
+
+div.darkblue{
+    background-color:Navy;
+    text-align:center;
+    min-height:200px;
+}
+
+div.content{
+    min-height:200px;
+    background-color:white;
+}
+
+.content p{
+    padding:50px;
+    text-align:justify;
+    font-size:18px;
+}
+
+h1{
+    color:white;
+    font-size:75px
+}
+
+h2.white{
+    color:blue;
+}
+
+header > img{
+    height:50px;
+    position:inline;
+}
+
+h2{
+    text-align:center;
+}
+
+main > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.hurdle{
+    height: 300px;
+    width: 50%;
+    border-style:double;
+    border-color:red;
+    border-width:10px;
+}
+
+img.trophy{
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px;
+    height:75px;
+    opacity:1;
+    transition: opacity 100s;
+}
+
+img.trophy:hover{
+    opacity:0;
+    transition: opacity 1s;
+}
+
+
+img.image{
+    height: 250px;
+    border-style:double;
+    border-color:red;
+    border-width:10px;
+}
+
+img.image:active{
+    animation-name: brighter;
+    animation-duration: 1s;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+    
+}
+
+@keyframes brighter{
+    from{
+        filter: brightness(1);
+        height: 250px;
+    }
+    to{
+        filter: brightness(1.5);
+        height: 300px;
+        transform: rotate(1080deg);
+    }
+}
+
+span{
+    text-align: center;
+    display:block;
+}
+
+a{
+    display: inline-block;
+    margin: 0 5px;
+    padding: 50px;
+    color:blue;
+    font-size:25px;
+    transition: font-size 2s, color .5s;
+}
+
+a:hover{
+    color:red;
+    font-size:35px;
+    transition: font-size 2s, color .5s;
+}
