@@ -2,6 +2,16 @@
 
 -----------------------
 
+### NptGolfing
+###### Year: 2024
+###### High School Project (Collaborated with Thomas Hardick)
+
+Website for a guide to golfing in the Northport, NY area. Group project where we used concepts like thumbnails, iframes, different pages with detailed headers, responsive tables, and more.  
+
+To view: [https://connorstratton.github.io/HTML/NptGolfing/index.html](https://connorstratton.github.io/HTML/NptGolfing/index.html)  
+
+-----------------------
+
 ### ResponsiveSite
 ###### Year: 2024
 ###### High School Project
@@ -29,3 +39,4 @@ To view: [https://connorstratton.github.io/HTML/BillsHistory/index.html](https:/
 Basic html site containing an early iteration of my resume in high school.  
 
 To view: [https://connorstratton.github.io/HTML/highschoolresume.html](https://connorstratton.github.io/HTML/highschoolresume.html)  
+
