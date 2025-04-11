@@ -1,0 +1,153 @@
+.navbar{
+    background-color: #861F41;
+}
+
+.stone{
+    background-image: url(https://i.pinimg.com/originals/e3/be/2e/e3be2e8bf901c3c7fe424acc6daff9e6.jpg);
+}
+
+.cont-title{
+    width:30%;
+    height:auto;
+    background-color: #75787b;
+    border-width: 10px;
+    border-style: outset;
+    border-color: #E5751F;
+}
+
+h1{
+    color: #E5751F;
+    font-family: Trebuchet MS;
+}
+
+.title{
+    text-align: center;
+    color: #861F41;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+}
+
+#main-nav .nav-link{
+    color: white;
+    font-family: Trebuchet MS;
+}
+
+#main-nav .active{
+    color: #E5751F;
+    font-family: Trebuchet MS;
+}
+
+body{
+    background-color: #75787b;
+}
+
+footer{
+    background-color: #E5751F;
+    margin: 50px;
+    padding: 10px;
+}
+
+h2{
+    color: #E5E1E6;
+    font-family: Trebuchet MS;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3{
+    color:#861F41;
+    font-family: Trebuchet MS;
+    font-size: 40px;
+    text-align: center;
+}
+
+a{
+    color: #F7EA48;
+}
+
+.large{
+    width: 120%;
+}
+
+.small{
+    width: 125px;
+    height: 100%;
+    padding:15px;
+}
+
+.special{
+    width:100px;
+    height:100%;
+    padding:15px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: Trebuchet MS;
+    font-size: 20px;
+}
+
+.container{
+    width: 650px;
+}
+
+.away{
+    background-color: #E5751F;
+    border-color: #75787b;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 50px;
+}
+
+.home{
+    background-color: #861F41;
+    border-color: #75787b;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 50px;
+}
+
+.player{
+    width: 1000px;
+    background-color: #861F41;
+    border-color: #E5751F;
+    border-style: groove;
+    border-width: 20px;
+}
+
+.bar-img{
+    height: 30px
+}
+
+.player-pic{
+    width: 400px;
+    height: 100%;
+}
+
+.tradition{
+    width: 75%;
+    border-color:#861F41;
+    border-width:6px;
+    border-style:dotted;
+    padding:10px;
+    background-color: #E5751F;
+    border-radius:20px;
+}
+
+.section{
+    width: 50%;
+    border-radius: 10px;
+    background-color: #861F41;
+}
+
+.contain{
+    width: 50%;
+    height:auto;
+    padding:10px;
+    background-color:#75787b;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #861F41;
+    border-radius: 50px;
+}
