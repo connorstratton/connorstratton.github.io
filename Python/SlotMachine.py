@@ -48,3 +48,5 @@ while goAgain == "y":
   goAgain = input("Would you like to go again? (y/n) ")
   while goAgain != "y" and goAgain != "n":
     goAgain = input("Please enter y or n ")
+
+end = input("Not enough funds for another roll, press enter to close")
