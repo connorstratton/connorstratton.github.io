@@ -29,3 +29,13 @@ Download and open file to run.
 Simple turtle graphics program drawing Virginia Tech's logo.  
    
 Download and open file to run.  
+
+-----------------------
+
+### DVDLogo
+###### Year: 2023
+###### Work Project
+
+Turtle graphics program recreating the old DVD idle screen.  
+   
+Download and open file to run. NOTE: will run until the window is closed.  
