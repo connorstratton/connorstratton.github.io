@@ -7,8 +7,8 @@
 ###### Work Project
 
 Program simulatng a slot machine with 5 slots. Uses lists to check how many matches occur for a given roll, and gives or deducts points accordingly.  
-
-###### Download and open file to run
+   
+Download and open file to run.  
 
 -----------------------
 
@@ -17,5 +17,5 @@ Program simulatng a slot machine with 5 slots. Uses lists to check how many matc
 ###### Personal Project
 
 Simple turtle graphics program drawing Virginia Tech's logo.  
-
-###### Download and open file to run
+   
+Download and open file to run.  
