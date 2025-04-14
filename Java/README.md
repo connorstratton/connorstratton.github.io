@@ -2,6 +2,17 @@
 
 -----------------------
 
+### TowerOfHanoi
+###### Year: 2024
+###### School Project
+
+Program to simulate the Tower of Hanoi problem recursively. Disks are moved from one Tower to another, without placing a larger disk on top of a smaller disk. 
+
+To run, 
+
+
+-----------------------
+
 ### PlaylistReader
 ###### Year: 2024
 ###### School Project
