@@ -2,6 +2,17 @@
 
 -----------------------
 
+### MarchMadnessDatabase
+###### Year: 2025
+###### School Project
+
+Program allowing users to view history of college basketball teams in the March Madness tournament over the last ~15 years. Uses sqlite to run SQL queries in a database with the information, and uses pandas and matplot libraries to make a graph of the user's choice
+   
+To run, download all files in the folder, and run in your local environment with no arguments. You will be further prompted with menu displays in which you will select the number of the option you want to select. 1 will provide a list of all teams that can be selected, 2 will show stats for a team name that you will enter, 3 will show all tournament winners, 4 will allow you to enter multiple teams to see a bar graph of their stats together, 5 will exit the program.  
+
+
+-----------------------
+
 ### PasswordTest
 ###### Year: 2023
 ###### Work Project
