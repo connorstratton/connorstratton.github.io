@@ -2,7 +2,7 @@
 
 -----------------------
 
-### TowerOfHanoi
+### TowerOfHanoi (deleted - fix later)
 ###### Year: 2024
 ###### School Project
 
@@ -13,7 +13,7 @@ To run,
 
 -----------------------
 
-### PlaylistReader
+### PlaylistReader (deleted - fix later)
 ###### Year: 2024
 ###### School Project
 
