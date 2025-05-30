@@ -159,7 +159,7 @@ if exists('TeamStats.sqlite'):                      #connect to database
         while (goAgain != "y" and goAgain != "n"):
             goAgain = str(input("Please enter y or n "))
 
-    conn.close()                                #clode database
+    conn.close()                                #close database
     print("\nDatabase accessed and closed successfully")
 else:
     print("\nFile you're accessing doesn't exist")
