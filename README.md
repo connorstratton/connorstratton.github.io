@@ -25,7 +25,7 @@ Pytorch project that uses a pre-trained dataset containing images of 100 sports 
 
 ---
 
-### March Madness Database/Stats (2024)
+### March Madness Database/Stats (2025)
 
 #### Repo: https://github.com/connorstratton/march_madness_database
 
