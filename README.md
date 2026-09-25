@@ -42,6 +42,25 @@ Python project that allows the users to view information about march madness res
 
 ---
 
+### Machine Learning Rock-Paper-Scissors (2024)
+
+#### Repo: https://github.com/connorstratton/AI_RPS
+#### Demo: https://connorstratton.github.io/AI_RPS/
+
+Project created for a camp I ran at [theCoderSchool](https://www.thecoderschool.com/). Trained a machine learning model through [Teachable Machine](https://teachablemachine.withgoogle.com/) to recognize rock, paper, and scissors hand signs through your webcam to play against the randomly-selecting computer.
+
+#### Tools/Skills
+
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- JavaScript
+- Python
+- Flask
+- HTML/CSS
+
+<br>
+
+---
+
 ### Old Projects (Pre-2024)
 
 #### Repo: https://github.com/connorstratton/old_projects
