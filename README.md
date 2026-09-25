@@ -1,6 +1,7 @@
 # Connor Stratton
 ### Undergraduate at Virginia Tech majoring in Computer Science, minoring in AI, Cybersecurity, and Math
 ##### Email: connorstratton38@gmail.com
+##### LinkedIn: https://www.linkedin.com/in/connor-stratton-781840268/
 
 ---
 
